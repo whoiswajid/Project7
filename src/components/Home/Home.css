@@ -1,0 +1,32 @@
+.card{
+    width: 250px;
+    height: 300px;
+    border: 1px ;
+}
+.title{
+    font-weight: bold;
+    display: flex;
+}
+.info{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card-btn{
+    width: 250px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid #2F80ED;
+    background: #2F80ED;
+}
+
+.home-container{
+    display: flex;
+}
+.card-container{
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    box-shadow: 10px;
+}

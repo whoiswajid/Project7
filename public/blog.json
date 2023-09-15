@@ -1,0 +1,93 @@
+ [
+  
+      {
+        "id": 1 ,
+        "image": "https://i.ibb.co/680JNBG/Rectangle-3.png",
+        "title": "Introduction to C Programming",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": 19.99,
+        "dollar_sign": "$",
+        "bookmark_sign": "📌",
+        "credit_time": 2,
+        "button_text": "Select"
+      },
+      {
+        "id":2,
+        "image": "https://i.ibb.co/Z8v465N/Rectangle-9.png",
+        "title": "AWS, Cloud Computing",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": 24.99,
+        "dollar_sign": "$",
+        "bookmark_sign": "📌",
+        "credit_time": 6,
+        "button_text": "Select"
+      },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/VL4K38d/Rectangle-8.png",
+        "title": "Database (MySQL)",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": 29.99,
+        "dollar_sign": "$",
+        "bookmark_sign": "📌",
+        "credit_time": 8,
+        "button_text": "Select"
+      },
+      {
+        "id":4,
+        "image": "https://i.ibb.co/XzJCxk7/Rectangle-7.png",
+        "title": "Problem-Solving Part",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": 14.99,
+        "dollar_sign": "$",
+        "bookmark_sign": "📌",
+        "credit_time": 9,
+        "button_text": "Select"
+      },
+      {
+        "id":5,
+        "image": "https://i.ibb.co/Zc4mX1c/Rectangle-6.png",
+        "title": "Basic Data Structures",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": 39.99,
+        "dollar_sign": "$",
+        "bookmark_sign": "📌",
+        "credit_time": 2 ,
+        "button_text": "Select"
+      },
+      {
+        "id": 6,
+        "image": "https://i.ibb.co/mJnxqjh/Rectangle-4.png",
+        "title": "Software Engineering",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": 17.99,
+        "dollar_sign": "$",
+        "bookmark_sign": "📌",
+        "credit_time": 8,
+        "button_text": "Select"
+      },
+      {
+        "id":7,
+        "image": "https://i.ibb.co/9TLrSXY/Rectangle-2.png",
+        "title": "Introduction to Algorithms",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout..",
+        "price": 27.99,
+        "dollar_sign": "$",
+        "bookmark_sign": "📌",
+        "credit_time": 8 ,
+        "button_text": "Select"
+      },
+      {
+        "id": 8,
+        "image": "https://i.ibb.co/4s5VtS6/Rectangle-1.png",
+        "title": "Introduction to C++ for DSA",
+        "paragraph": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": 31.99,
+        "dollar_sign": "$",
+        "bookmark_sign": "📌",
+        "credit_time": 10,
+        "button_text": "Select"
+      }
+    ]
+  
+  

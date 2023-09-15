@@ -1,0 +1,17 @@
+.add-cart{
+    width: 250px;
+    height: 300px;
+    
+    border-radius: 12px;
+    
+    
+}
+.font-bold{
+    text-decoration-color: blue;
+    display: flex;
+}
+
+.course-name{
+    display: flex;
+}
+
