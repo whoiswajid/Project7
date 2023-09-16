@@ -1,8 +1,8 @@
 # Add at least 3 Project Features
- 1 Im Using Html,Css, JavaScript, React,json.
- 2 It is an single page website.
- 3 I used vs-code and github
- 4 
+ (-) Im Using Html,Css, JavaScript, React,json.
+ (-) It is an single page website.
+ (-) I used vs-code and github
+ 
 
 # Discuss how You managed the stae in your assinment project
 
