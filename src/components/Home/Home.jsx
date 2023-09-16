@@ -3,6 +3,8 @@ import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
 import "./Home.css"
 import {BiBookOpen} from 'react-icons/Bi';
+import { ToastContainer, toast } from 'react-toastify';
+  import 'react-toastify/dist/ReactToastify.css';
 
 
 const Home = () => {
@@ -26,7 +28,7 @@ const Home = () => {
          let count = card.credit_time;
 
          if (isExist) {
-          return  alert('already booked')
+            toast('already booked')
          }
          else{
 
@@ -36,7 +38,7 @@ const Home = () => {
 
             const totalRemaining=20-count;
             if (count >20) {
-               return alert ("You have used all the credits")
+                toast ("You have used all the credits")
             }
             else{
                 
@@ -81,6 +83,7 @@ const Home = () => {
 
                 </div>
                 
+                <ToastContainer></ToastContainer>
                 
                 <div className='cart'>
                     <Cart 
