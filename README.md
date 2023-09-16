@@ -1,6 +1,6 @@
 # Add at least 3 Project Features
   - Im Using Html,Css, JavaScript, React,json.
-   -It is an single page website.
+   - It is an single page website.
    - I used vs-code and github. 
  
 
